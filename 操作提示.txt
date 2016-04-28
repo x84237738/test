@@ -1,0 +1,50 @@
+
+Administrator@YNX9VV3CZRJYUIG MINGW32 /e/githubworkspace/test (master)
+
+
+
+
+            $ git add .
+
+Administrator@YNX9VV3CZRJYUIG MINGW32 /e/githubworkspace/test (master)
+
+
+
+
+
+
+         $ git commit -m "首次提"
+
+
+
+
+
+[master 657d518] 首次提
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ create mode 100644 sadfasdf.txt
+ delete mode 160000 test
+
+Administrator@YNX9VV3CZRJYUIG MINGW32 /e/githubworkspace/test (master)
+
+
+
+
+
+
+
+        $ git push origin master
+
+
+
+
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 319 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/x84237738/test.git
+   ee11ad6..657d518  master -> master
+
+Administrator@YNX9VV3CZRJYUIG MINGW32 /e/githubworkspace/test (master)
+$
+
