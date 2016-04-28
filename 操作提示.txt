@@ -1,3 +1,14 @@
+git clone https://github.com/Flowerowl/stumansys.git
+git init
+
+git add .
+git commit -m 'stumansys'
+git remote add origin https://github.com/Flowerowl/stumansys.git
+git pull origin master (Èç¹ûpush±¨´í)
+git push origin master
+
+
+
 
 Administrator@YNX9VV3CZRJYUIG MINGW32 /e/githubworkspace/test (master)
 
